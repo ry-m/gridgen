@@ -16,3 +16,7 @@ The grid is displayed graphically to the user.
 `python3 gridgen.py [size]`
 
 where size is between 5 and 50 inclusive. This limitation is due to the grid's infinite size during the generation process.
+
+### Example: size=40
+
+![](demo.png)
